@@ -1,0 +1,99 @@
+# Вузы России
+
+> Справочник 1471 вузов России: проходные баллы на бюджет (оценка по данным прошлых лет), бюджетные места, стоимость обучения и нужные ЕГЭ по направлениям. Данные агрегированы из открытых источников, 2026. Проект репетитора физики и математики Владимира Подлевских (МГУ, 20+ лет).
+
+- [Главная](https://vuzy.podlevskikh.com/)
+- [Все вузы (алфавитный указатель)](https://vuzy.podlevskikh.com/vuzy-index.html)
+
+## Направления
+- [IT и информатика](https://vuzy.podlevskikh.com/napravlenie/it-informatika.html): 884 вузов
+- [Менеджмент и управление](https://vuzy.podlevskikh.com/napravlenie/menedzhment-upravlenie.html): 821 вузов
+- [Экономика и финансы](https://vuzy.podlevskikh.com/napravlenie/ekonomika-finansy.html): 703 вузов
+- [Искусство и дизайн](https://vuzy.podlevskikh.com/napravlenie/iskusstvo-dizayn.html): 640 вузов
+- [Юриспруденция и право](https://vuzy.podlevskikh.com/napravlenie/yurisprudenciya-pravo.html): 630 вузов
+- [Военное дело и безопасность](https://vuzy.podlevskikh.com/napravlenie/voennoe-bezopasnost.html): 491 вузов
+- [Психология](https://vuzy.podlevskikh.com/napravlenie/psihologiya.html): 394 вузов
+- [Инженерные и технические направления](https://vuzy.podlevskikh.com/napravlenie/inzhenernye-tehnicheskie.html): 391 вузов
+- [Естественные науки](https://vuzy.podlevskikh.com/napravlenie/estestvennye-nauki.html): 388 вузов
+- [Физкультура и спорт](https://vuzy.podlevskikh.com/napravlenie/fizkultura-sport.html): 381 вузов
+- [Педагогика и образование](https://vuzy.podlevskikh.com/napravlenie/pedagogika-obrazovanie.html): 341 вузов
+- [Сервис и туризм](https://vuzy.podlevskikh.com/napravlenie/servis-turizm.html): 331 вузов
+- [Социальные науки](https://vuzy.podlevskikh.com/napravlenie/socialnye-nauki.html): 327 вузов
+- [Транспорт](https://vuzy.podlevskikh.com/napravlenie/transport.html): 323 вузов
+- [Лингвистика и филология](https://vuzy.podlevskikh.com/napravlenie/lingvistika-filologiya.html): 308 вузов
+- [Архитектура и строительство](https://vuzy.podlevskikh.com/napravlenie/arhitektura-stroitelstvo.html): 292 вузов
+- [Медицина и здравоохранение](https://vuzy.podlevskikh.com/napravlenie/medicina-zdravoohranenie.html): 228 вузов
+- [Гуманитарные науки](https://vuzy.podlevskikh.com/napravlenie/gumanitarnye.html): 213 вузов
+- [Нефтегаз и энергетика](https://vuzy.podlevskikh.com/napravlenie/neftegaz-energetika.html): 207 вузов
+- [Сельское хозяйство](https://vuzy.podlevskikh.com/napravlenie/selskoe-hozyaystvo.html): 121 вузов
+
+## Города
+- [Москва](https://vuzy.podlevskikh.com/gorod/moskva.html): 53 вузов
+- [Санкт-Петербург](https://vuzy.podlevskikh.com/gorod/sankt-peterburg.html): 33 вузов
+- [Новосибирск](https://vuzy.podlevskikh.com/gorod/novosibirsk.html): 5 вузов
+- [Ростов-на-Дону](https://vuzy.podlevskikh.com/gorod/rostov-na-donu.html): 4 вузов
+- [Казань](https://vuzy.podlevskikh.com/gorod/kazan.html): 4 вузов
+- [Краснодар](https://vuzy.podlevskikh.com/gorod/krasnodar.html): 4 вузов
+- [Нижний Новгород](https://vuzy.podlevskikh.com/gorod/nizhniy-novgorod.html): 4 вузов
+- [Самара](https://vuzy.podlevskikh.com/gorod/samara.html): 4 вузов
+- [Томск](https://vuzy.podlevskikh.com/gorod/tomsk.html): 4 вузов
+- [Екатеринбург](https://vuzy.podlevskikh.com/gorod/ekaterinburg.html): 4 вузов
+- [Воронеж](https://vuzy.podlevskikh.com/gorod/voronezh.html): 3 вузов
+- [Челябинск](https://vuzy.podlevskikh.com/gorod/chelyabinsk.html): 3 вузов
+- [Владивосток](https://vuzy.podlevskikh.com/gorod/vladivostok.html): 3 вузов
+- [Красноярск](https://vuzy.podlevskikh.com/gorod/krasnoyarsk.html): 3 вузов
+- [Курск](https://vuzy.podlevskikh.com/gorod/kursk.html): 3 вузов
+- [Пермь](https://vuzy.podlevskikh.com/gorod/perm.html): 3 вузов
+- [Саратов](https://vuzy.podlevskikh.com/gorod/saratov.html): 3 вузов
+- [Тюмень](https://vuzy.podlevskikh.com/gorod/tyumen.html): 3 вузов
+- [Волгоград](https://vuzy.podlevskikh.com/gorod/volgograd.html): 3 вузов
+- [Барнаул](https://vuzy.podlevskikh.com/gorod/barnaul.html): 2 вузов
+- [Астрахань](https://vuzy.podlevskikh.com/gorod/astrahan.html): 2 вузов
+- [Уфа](https://vuzy.podlevskikh.com/gorod/ufa.html): 2 вузов
+- [Белгород](https://vuzy.podlevskikh.com/gorod/belgorod.html): 2 вузов
+- [Хабаровск](https://vuzy.podlevskikh.com/gorod/habarovsk.html): 2 вузов
+- [Ижевск](https://vuzy.podlevskikh.com/gorod/izhevsk.html): 2 вузов
+- [Иркутск](https://vuzy.podlevskikh.com/gorod/irkutsk.html): 2 вузов
+- [Иваново](https://vuzy.podlevskikh.com/gorod/ivanovo.html): 2 вузов
+- [Кемерово](https://vuzy.podlevskikh.com/gorod/kemerovo.html): 2 вузов
+- [Омск](https://vuzy.podlevskikh.com/gorod/omsk.html): 2 вузов
+- [Рязань](https://vuzy.podlevskikh.com/gorod/ryazan.html): 2 вузов
+- [Ульяновск](https://vuzy.podlevskikh.com/gorod/ulyanovsk.html): 2 вузов
+- [Ярославль](https://vuzy.podlevskikh.com/gorod/yaroslavl.html): 2 вузов
+- [Майкоп](https://vuzy.podlevskikh.com/gorod/maykop.html): 1 вузов
+- [Благовещенск](https://vuzy.podlevskikh.com/gorod/blagoveschensk.html): 1 вузов
+- [Брянск](https://vuzy.podlevskikh.com/gorod/bryansk.html): 1 вузов
+- [Улан-Удэ](https://vuzy.podlevskikh.com/gorod/ulan-ude.html): 1 вузов
+- [Симферополь](https://vuzy.podlevskikh.com/gorod/simferopol.html): 1 вузов
+- [Грозный](https://vuzy.podlevskikh.com/gorod/groznyy.html): 1 вузов
+- [Чебоксары](https://vuzy.podlevskikh.com/gorod/cheboksary.html): 1 вузов
+- [Махачкала](https://vuzy.podlevskikh.com/gorod/mahachkala.html): 1 вузов
+- [Петропавловск-Камчатский](https://vuzy.podlevskikh.com/gorod/petropavlovsk-kamchatskiy.html): 1 вузов
+- [Калининград](https://vuzy.podlevskikh.com/gorod/kaliningrad.html): 1 вузов
+- [Нальчик](https://vuzy.podlevskikh.com/gorod/nalchik.html): 1 вузов
+- [Кострома](https://vuzy.podlevskikh.com/gorod/kostroma.html): 1 вузов
+- [Химки](https://vuzy.podlevskikh.com/gorod/himki.html): 1 вузов
+- [Долгопрудный](https://vuzy.podlevskikh.com/gorod/dolgoprudnyy.html): 1 вузов
+- [Саранск](https://vuzy.podlevskikh.com/gorod/saransk.html): 1 вузов
+- [Архангельск](https://vuzy.podlevskikh.com/gorod/arhangelsk.html): 1 вузов
+- [Ставрополь](https://vuzy.podlevskikh.com/gorod/stavropol.html): 1 вузов
+- [Владикавказ](https://vuzy.podlevskikh.com/gorod/vladikavkaz.html): 1 вузов
+- [Великий Новгород](https://vuzy.podlevskikh.com/gorod/velikiy-novgorod.html): 1 вузов
+- [Орёл](https://vuzy.podlevskikh.com/gorod/orel.html): 1 вузов
+- [Петрозаводск](https://vuzy.podlevskikh.com/gorod/petrozavodsk.html): 1 вузов
+- [Пенза](https://vuzy.podlevskikh.com/gorod/penza.html): 1 вузов
+- [Якутск](https://vuzy.podlevskikh.com/gorod/yakutsk.html): 1 вузов
+- [Южно-Сахалинск](https://vuzy.podlevskikh.com/gorod/yuzhno-sahalinsk.html): 1 вузов
+- [Севастополь](https://vuzy.podlevskikh.com/gorod/sevastopol.html): 1 вузов
+- [Смоленск](https://vuzy.podlevskikh.com/gorod/smolensk.html): 1 вузов
+- [Санкт-Петербург (Пушкин)](https://vuzy.podlevskikh.com/gorod/sankt-peterburg-pushkin.html): 1 вузов
+- [Мытищи](https://vuzy.podlevskikh.com/gorod/mytischi.html): 1 вузов
+- [Москва (Зеленоград)](https://vuzy.podlevskikh.com/gorod/moskva-zelenograd.html): 1 вузов
+- [Люберцы](https://vuzy.podlevskikh.com/gorod/lyubercy.html): 1 вузов
+- [Тольятти](https://vuzy.podlevskikh.com/gorod/tolyatti.html): 1 вузов
+- [Тула](https://vuzy.podlevskikh.com/gorod/tula.html): 1 вузов
+- [Кызыл](https://vuzy.podlevskikh.com/gorod/kyzyl.html): 1 вузов
+- [Тверь](https://vuzy.podlevskikh.com/gorod/tver.html): 1 вузов
+- [Владимир](https://vuzy.podlevskikh.com/gorod/vladimir.html): 1 вузов
+- [Киров](https://vuzy.podlevskikh.com/gorod/kirov.html): 1 вузов
+- [Чита](https://vuzy.podlevskikh.com/gorod/chita.html): 1 вузов
