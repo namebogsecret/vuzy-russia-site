@@ -21,6 +21,8 @@ a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
 h1{font-size:26px;line-height:1.25;margin:.2em 0 .35em}
 h2{font-size:20px;margin:1.4em 0 .5em}
 .lead{color:var(--mut);font-size:15.5px;max-width:70ch}
+.lead.answer{color:var(--ink);font-size:16px;margin:.85em 0 .2em;max-width:70ch}
+.data-disclaimer time{white-space:nowrap}
 .vuz-head .facts{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:10px;font-size:14px}
 .fact{color:var(--mut)}
 .table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);
