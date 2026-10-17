@@ -69,3 +69,10 @@ table.programs tr:last-child td{border-bottom:0}
 .footer{background:var(--accent2);color:#A9B0C0;margin-top:28px}
 .footer-inner{max-width:960px;margin:0 auto;padding:22px 16px;font-size:13.5px;line-height:1.6}
 .footer a{color:#D9B477}
+/* тач-цели ≥40px: ссылки в списках, крошках и навигаторе сети */
+.linklist li,.vuz-list li{display:flex;flex-wrap:wrap;align-items:center;gap:0 8px;padding:0;break-inside:avoid}
+.linklist li>a,.vuz-list li>a,.crumbs a,.net-band nav a{display:inline-flex;align-items:center;min-height:40px}
+.crumbs{line-height:40px}
+.topbar .logo,.cta-links a,.cta-calc a,table.programs td>a,.allvuz a,.lead a,.data-disclaimer a{display:inline-flex;align-items:center;min-height:40px}
+table.programs td{padding-top:4px;padding-bottom:4px}
+.footer-inner a{display:inline-block;padding:11px 0}
