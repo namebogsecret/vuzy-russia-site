@@ -23,7 +23,7 @@
       if(d.city)meta.push(esc(d.city));
       if(d.ms!=null)meta.push('от '+d.ms+' баллов');
       if(d.mp!=null)meta.push('от '+fmt(d.mp)+' ₽/год');
-      h+='<li><a href="/vuz/'+d.slug+'.html">'+esc(d.name)+'</a>'+
+      h+='<li><a href="'+(d.u||'/vuz/'+d.slug+'.html')+'">'+esc(d.name)+'</a>'+
         (meta.length?' <span class="m">— '+meta.join(' · ')+'</span>':'')+'</li>';
     }
     out.innerHTML=h+'</ul>';
