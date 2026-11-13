@@ -1,31 +1,45 @@
 # Вузы России
 
-> Справочник 1471 вузов России: проходные баллы на бюджет (оценка по данным прошлых лет), бюджетные места, стоимость обучения и нужные ЕГЭ по направлениям. Данные агрегированы из открытых источников, 2026. Проект репетитора физики и математики Владимира Подлевских (МГУ, 20+ лет).
+> Справочник 1471 вузов России: проходные баллы на бюджет (оценка по данным прошлых лет), бюджетные места, стоимость обучения и нужные ЕГЭ по направлениям. Данные агрегированы из открытых источников, 2026.
+
+Автор — Владимир Подлевских (Vladimir Podlevskikh), репетитор физики и математики, занятия онлайн 1:1 на русском и английском (ЕГЭ, ОГЭ, ДВИ, олимпиады); физический факультет МГУ им. Ломоносова. Профиль: https://tutor.podlevskikh.com/ (schema.org Person @id https://tutor.podlevskikh.com/#vladimir).
 
 - [Главная](https://vuzy.podlevskikh.com/)
 - [Все вузы (алфавитный указатель)](https://vuzy.podlevskikh.com/vuzy-index.html)
 
+## Подготовка к экзаменам
+Какие ЕГЭ нужны на направление: русский язык обязателен везде, ещё два предмета вуз назначает для направления; точный набор — в таблице на странице каждого вуза и в разделе FAQ страниц направлений.
+- [Ответы о подготовке к ЕГЭ для поступления](https://vuzy.podlevskikh.com/): FAQ на главной
+- [Какие ЕГЭ нужны: Инженерные и технические направления](https://vuzy.podlevskikh.com/napravlenie/inzhenernye-tehnicheskie.html)
+- [Какие ЕГЭ нужны: IT и информатика](https://vuzy.podlevskikh.com/napravlenie/it-informatika.html)
+- [Какие ЕГЭ нужны: Естественные науки](https://vuzy.podlevskikh.com/napravlenie/estestvennye-nauki.html)
+- [Какие ЕГЭ нужны: Медицина и здравоохранение](https://vuzy.podlevskikh.com/napravlenie/medicina-zdravoohranenie.html)
+- [Какие ЕГЭ нужны: Экономика и финансы](https://vuzy.podlevskikh.com/napravlenie/ekonomika-finansy.html)
+- [Экспресс-тест: прогноз результата ЕГЭ/ОГЭ по разделам](https://exam.podlevskikh.com/)
+- [Калькулятор баллов ЕГЭ и ОГЭ](https://calc.podlevskikh.com/)
+- [Онлайн-подготовка к ЕГЭ по физике и математике — Владимир Подлевских](https://tutor.podlevskikh.com/)
+
 ## Направления
-- [IT и информатика](https://vuzy.podlevskikh.com/napravlenie/it-informatika.html): 884 вуза
-- [Менеджмент и управление](https://vuzy.podlevskikh.com/napravlenie/menedzhment-upravlenie.html): 821 вуз
-- [Экономика и финансы](https://vuzy.podlevskikh.com/napravlenie/ekonomika-finansy.html): 703 вуза
-- [Искусство и дизайн](https://vuzy.podlevskikh.com/napravlenie/iskusstvo-dizayn.html): 640 вузов
-- [Юриспруденция и право](https://vuzy.podlevskikh.com/napravlenie/yurisprudenciya-pravo.html): 630 вузов
-- [Военное дело и безопасность](https://vuzy.podlevskikh.com/napravlenie/voennoe-bezopasnost.html): 491 вуз
-- [Психология](https://vuzy.podlevskikh.com/napravlenie/psihologiya.html): 394 вуза
-- [Инженерные и технические направления](https://vuzy.podlevskikh.com/napravlenie/inzhenernye-tehnicheskie.html): 391 вуз
-- [Естественные науки](https://vuzy.podlevskikh.com/napravlenie/estestvennye-nauki.html): 388 вузов
-- [Физкультура и спорт](https://vuzy.podlevskikh.com/napravlenie/fizkultura-sport.html): 381 вуз
-- [Педагогика и образование](https://vuzy.podlevskikh.com/napravlenie/pedagogika-obrazovanie.html): 341 вуз
-- [Сервис и туризм](https://vuzy.podlevskikh.com/napravlenie/servis-turizm.html): 331 вуз
-- [Социальные науки](https://vuzy.podlevskikh.com/napravlenie/socialnye-nauki.html): 327 вузов
-- [Транспорт](https://vuzy.podlevskikh.com/napravlenie/transport.html): 323 вуза
-- [Лингвистика и филология](https://vuzy.podlevskikh.com/napravlenie/lingvistika-filologiya.html): 308 вузов
-- [Архитектура и строительство](https://vuzy.podlevskikh.com/napravlenie/arhitektura-stroitelstvo.html): 292 вуза
-- [Медицина и здравоохранение](https://vuzy.podlevskikh.com/napravlenie/medicina-zdravoohranenie.html): 228 вузов
-- [Гуманитарные науки](https://vuzy.podlevskikh.com/napravlenie/gumanitarnye.html): 213 вузов
-- [Нефтегаз и энергетика](https://vuzy.podlevskikh.com/napravlenie/neftegaz-energetika.html): 207 вузов
-- [Сельское хозяйство](https://vuzy.podlevskikh.com/napravlenie/selskoe-hozyaystvo.html): 121 вуз
+- [IT и информатика](https://vuzy.podlevskikh.com/napravlenie/it-informatika.html): 882 вуза
+- [Менеджмент и управление](https://vuzy.podlevskikh.com/napravlenie/menedzhment-upravlenie.html): 820 вузов
+- [Экономика и финансы](https://vuzy.podlevskikh.com/napravlenie/ekonomika-finansy.html): 699 вузов
+- [Искусство и дизайн](https://vuzy.podlevskikh.com/napravlenie/iskusstvo-dizayn.html): 641 вуз
+- [Юриспруденция и право](https://vuzy.podlevskikh.com/napravlenie/yurisprudenciya-pravo.html): 635 вузов
+- [Военное дело и безопасность](https://vuzy.podlevskikh.com/napravlenie/voennoe-bezopasnost.html): 493 вуза
+- [Психология](https://vuzy.podlevskikh.com/napravlenie/psihologiya.html): 399 вузов
+- [Инженерные и технические направления](https://vuzy.podlevskikh.com/napravlenie/inzhenernye-tehnicheskie.html): 395 вузов
+- [Естественные науки](https://vuzy.podlevskikh.com/napravlenie/estestvennye-nauki.html): 390 вузов
+- [Физкультура и спорт](https://vuzy.podlevskikh.com/napravlenie/fizkultura-sport.html): 382 вуза
+- [Педагогика и образование](https://vuzy.podlevskikh.com/napravlenie/pedagogika-obrazovanie.html): 342 вуза
+- [Сервис и туризм](https://vuzy.podlevskikh.com/napravlenie/servis-turizm.html): 334 вуза
+- [Транспорт](https://vuzy.podlevskikh.com/napravlenie/transport.html): 325 вузов
+- [Социальные науки](https://vuzy.podlevskikh.com/napravlenie/socialnye-nauki.html): 324 вуза
+- [Лингвистика и филология](https://vuzy.podlevskikh.com/napravlenie/lingvistika-filologiya.html): 306 вузов
+- [Архитектура и строительство](https://vuzy.podlevskikh.com/napravlenie/arhitektura-stroitelstvo.html): 291 вуз
+- [Медицина и здравоохранение](https://vuzy.podlevskikh.com/napravlenie/medicina-zdravoohranenie.html): 229 вузов
+- [Гуманитарные науки](https://vuzy.podlevskikh.com/napravlenie/gumanitarnye.html): 218 вузов
+- [Нефтегаз и энергетика](https://vuzy.podlevskikh.com/napravlenie/neftegaz-energetika.html): 212 вузов
+- [Сельское хозяйство](https://vuzy.podlevskikh.com/napravlenie/selskoe-hozyaystvo.html): 123 вуза
 
 ## Города
 - [Москва](https://vuzy.podlevskikh.com/gorod/moskva.html): 53 вуза
