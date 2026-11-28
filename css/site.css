@@ -19,6 +19,9 @@ a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
 .crumbs{font-size:13.5px;color:var(--mut);margin-bottom:14px}
 .crumbs .sep{color:var(--line)}
 h1{font-size:26px;line-height:1.25;margin:.2em 0 .35em}
+/* длинные названия переносим, а не распираем ими экран 360px */
+h1,h2,h3,.crumbs,.faq-q,.linklist li>a,.vuz-list li>a{overflow-wrap:anywhere}
+.linklist li>a,.vuz-list li>a{min-width:0;max-width:100%}
 h2{font-size:20px;margin:1.4em 0 .5em}
 .lead{color:var(--mut);font-size:15.5px;max-width:70ch}
 .lead.answer{color:var(--ink);font-size:16px;margin:.85em 0 .2em;max-width:70ch}
@@ -73,7 +76,10 @@ table.programs tr:last-child td{border-bottom:0}
 /* тач-цели ≥40px: ссылки в списках, крошках и навигаторе сети */
 .linklist li,.vuz-list li{display:flex;flex-wrap:wrap;align-items:center;gap:0 8px;padding:0;break-inside:avoid}
 .linklist li>a,.vuz-list li>a,.crumbs a,.net-band nav a{display:inline-flex;align-items:center;min-height:40px}
-.crumbs{line-height:40px}
+/* крошки: тач-цель держит min-height ссылки; длинное название идёт обычной строкой */
+.crumbs{display:flex;flex-wrap:wrap;align-items:center;column-gap:.35em;line-height:1.45}
+.crumbs>span{min-width:0}
+.crumbs a{min-width:0}
 .topbar .logo,.cta-links a,.cta-calc a,table.programs td>a,.allvuz a,.lead a,.data-disclaimer a{display:inline-flex;align-items:center;min-height:40px}
 table.programs td{padding-top:4px;padding-bottom:4px}
 .footer-inner a{display:inline-block;padding:11px 0}
